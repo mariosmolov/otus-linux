@@ -25,7 +25,7 @@
 
 **mdadm /dev/md0 --remove /dev/sde**
 
-И подлкючим заново
+И подключим заново
 
 **mdadm /dev/md0 --add /dev/sde**
 
